@@ -1,0 +1,49 @@
+section {
+  height: 500px;
+  background-color: #1c1d25;
+}
+
+.hero {
+  background-color: #1c1d25;
+  height: 100vh;
+  color: whitesmoke;
+  font-size: 24px
+}
+
+footer {
+  height: 500px;
+  background-color: #1c1d25;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  width: 500px;
+  justify-content: space-around;
+  font-size: 24px;
+}
+
+li {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+.hero-text {
+  margin-left: 200px;
+}
+
+.button {
+  width: 200px;
+  height: 30px;
+  border-radius: 30px;
+  background-color: crimson;
+  text-align: center;
+}
